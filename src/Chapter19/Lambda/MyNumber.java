@@ -1,0 +1,7 @@
+package Chapter19.Lambda;
+
+public interface MyNumber {
+
+	int getMax(int num1,int num2);
+	
+}
